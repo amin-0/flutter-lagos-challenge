@@ -1,0 +1,8 @@
+TabBar
+App bar title can be a column
+imageIcon
+bottom and preferred size
+richText
+offsets
+customPaint
+gradients
