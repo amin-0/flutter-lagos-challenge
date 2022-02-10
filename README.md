@@ -1,16 +1,12 @@
 # clock_custompaint
+This is a challenge organised by Flutter lagos to use custom Paint to create a custom UI
 
-A new Flutter project.
+It was my first time using Custom Paint, so i enjoyed the challenge and learnt a lot
 
-## Getting Started
+Below are screenshots of the challenge UI and my build using flutter
 
-This project is a starting point for a Flutter application.
+Challenge Screen
+![flutter lagos challenge](https://user-images.githubusercontent.com/70073642/153396819-e9a4c65a-da12-4efb-9474-6de898722c97.jpg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+My Solution
+![flutter lagos solution](https://user-images.githubusercontent.com/70073642/153396822-3dbe503e-8b28-4e8d-b480-d54af7e5f0c7.png)
